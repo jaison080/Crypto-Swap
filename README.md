@@ -1,4 +1,4 @@
-# Crypto Swap - Intergalactica - Execute 2.0
+# Crypto Swap - GALACTICA - Hackistica'22
 
 ![Logo](https://github.com/salmanpary/crypto-swap/blob/master/images/logo.png)
 
@@ -8,7 +8,7 @@ Link : http://cryptoswap6969.netlify.app/
 
 ## Team Details
 
-Team Name : <b>INTERGALACTIC</b>
+Team Name : <b>GALACTICA</b>
 
 ## Project Description
 
