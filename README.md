@@ -1,6 +1,6 @@
 # Crypto Swap - Intergalactica - Execute 2.0
 
-![Logo](https://github.com/jaison080/Crypto-Swap-6969/blob/master/images/logo.png)
+![Logo](https://github.com/salmanpary/crypto-swap/blob/master/images/logo.png)
 
 ## Live Demo
 
@@ -24,23 +24,31 @@ Crypto Swap helps you invest in Crypto Baskets curated by Crypto Experts...
 
 ## 🔧 Project UI:
 
-![Project Home-1](https://github.com/jaison080/Crypto-Swap-6969/blob/master/images/img.png)
+![Project Home-1](https://github.com/salmanpary/crypto-swap/blob/master/images/img.png)
 <br>
-![Project Home-2](https://github.com/jaison080/Crypto-Swap-6969/blob/master/images/img1.png)
+![Project Home-2](https://github.com/salmanpary/crypto-swap/blob/master/images/img1.png)
 <br>
-![Project Home-3](https://github.com/jaison080/Crypto-Swap-6969/blob/master/images/img2.png)
+![Project Home-3](https://github.com/salmanpary/crypto-swap/blob/master/images/img2.png)
 <br>
-![Project Dashboard-1](https://github.com/jaison080/Crypto-Swap-6969/blob/master/images/img3.png)
+![Project Dashboard-1](https://github.com/salmanpary/crypto-swap/blob/master/images/img3.png)
 <br>
-![Project Dashboard-2](https://github.com/jaison080/Crypto-Swap-6969/blob/master/images/img4.png)
+![Project Dashboard-2](https://github.com/salmanpary/crypto-swap/blob/master/images/img4.png)
 <br>
-![Project Dashboard-3](https://github.com/jaison080/Crypto-Swap-6969/blob/master/images/img5.png)
+![Project Dashboard-3](https://github.com/salmanpary/crypto-swap/blob/master/images/img5.png)
 
-# Steps To Run the Project:
+# Steps To Run the Home Page of Project:
 
 ```bash
 git clone https://github.com/jaison080/Crypto-Swap-6969
 cd Crypto-Swap-6969
+npm install
+npm start
+```
+# Steps To Run the Dashboard Page of Project:
+
+```bash
+git clone https://github.com/salmanpary/crypto-swap
+cd crypto-swap
 npm install
 npm start
 ```
